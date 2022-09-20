@@ -17,12 +17,16 @@ In this, we designed an Application to directly download Youtube Video (to .mp4)
 ### Application
 
 <div align='center'>
-<img src = 'Display_window.PNG' height="300px">
+<img src = 'https://github.com/Wade0125Studio/Youtube-Downloader-Using-Tkinter/blob/main/youtube_1.PNG' height="300px">
+</div>
+
+<div align='center'>
+<img src = 'https://github.com/Wade0125Studio/Youtube-Downloader-Using-Tkinter/blob/main/youtube_2.PNG' height="300px">
 </div>
 
 ### Steps of Code Execution:
 
-  1. Clone / Download this [repository](https://github.com/nikita9604/Youtube-Downloader)
+  1. Clone / Download this [repository](https://github.com/Wade0125Studio/Youtube-Downloader-Using-Tkinter)
   2. Open Command Window / Terminal on your system
   3. Trace to the respective location where the file is saved
-  4. Run this [python file](https://github.com/nikita9604/Youtube-Downloader/blob/main/main.py) to execute the application
+  4. Run this [python file](https://github.com/Wade0125Studio/Youtube-Downloader-Using-Tkinter/blob/main/main.py) to execute the application
