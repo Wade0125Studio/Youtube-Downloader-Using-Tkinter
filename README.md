@@ -17,11 +17,11 @@ In this, we designed an Application to directly download Youtube Video (to .mp4)
 ### Application
 
 <div align='center'>
-<img src = 'https://github.com/Wade0125Studio/Youtube-Downloader-Using-Tkinter/blob/main/youtube_1.PNG' height="300px">
+<img src = 'https://github.com/Wade0125Studio/Youtube-Downloader-Using-Tkinter/blob/main/youtube_1.PNG' >
 </div>
 
 <div align='center'>
-<img src = 'https://github.com/Wade0125Studio/Youtube-Downloader-Using-Tkinter/blob/main/youtube_2.PNG' height="300px">
+<img src = 'https://github.com/Wade0125Studio/Youtube-Downloader-Using-Tkinter/blob/main/youtube_2.PNG' >
 </div>
 
 ### Steps of Code Execution:
