@@ -12,7 +12,7 @@ In this, we designed an Application to directly download Youtube Video (to .mp4)
   
       ```pip install youtube_dl```
   
-  3. ffmpeg, ffprobe & ffplay (Handling video/audio) - Download [here](https://ffbinaries.com/downloads)
+  3. ffmpeg, ffprobe & ffplay (Handling video/audio) - Download [Here](https://ffbinaries.com/downloads)
 
 ### Application
 
